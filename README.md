@@ -1,5 +1,8 @@
-# quarkus-k8s
+# Quarkus K8S Application
 
+This repository represents the code developed in the [post](https:matheuscruz.dev/2024/01/13/deploying-a-quarkus-application-on-kubernetes).
+
+--- 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
